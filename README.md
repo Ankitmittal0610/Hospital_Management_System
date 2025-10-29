@@ -5,6 +5,7 @@ The **Hospital Management System (HMS)** is a **Spring Boot and React.js-based f
 ---
 
 <h2>🎥 Project Demo</h2>
+<p><b>Click the image below to watch the full demo video.</b></p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=qwYNyGy0JGU" target="_blank">

@@ -8,7 +8,7 @@ The **Hospital Management System (HMS)** is a **Spring Boot and React.js-based f
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=qwYNyGy0JGU" target="_blank">
-    <img src="https://img.youtube.com/vi/abc123XYZ/0.jpg" 
+    <img src="https://img.youtube.com/vi/qwYNyGy0JGU/0.jpg" 
          alt="Hospital Management System Demo Video" 
          width="70%" style="border-radius:10px;">
   </a>
